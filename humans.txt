@@ -1,6 +1,8 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+  Doing some changes in local
+
 # TEAM
 
     <name> Dmytro Iakubovskyi dima806@gmail.com <twitter>
