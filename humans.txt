@@ -7,10 +7,11 @@
 
 # THANKS
 
-    name1
+    name
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS5, Angular
     jQuery, Modernizr, AJAX
     ML, AWS
+    Docker, Java
