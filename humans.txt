@@ -16,5 +16,5 @@
 
     HTML5, CSS5, Angular
     jQuery, Modernizr, AJAX
-    ML, AWS
+    ML, AWS, GCP
     Docker, Java
