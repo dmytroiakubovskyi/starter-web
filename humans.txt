@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> Dima Iakubovskyi dima806@gmail.com <twitter>
+    <name> Dmytro Iakubovskyi dima806@gmail.com <twitter>
 
 # THANKS
 
