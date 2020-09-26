@@ -12,3 +12,6 @@ Compare
 
 ## GITHub content
 Comparison with Repo
+
+## Contribution
+Fork the Repo
