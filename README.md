@@ -2,6 +2,7 @@
 this is git project
 
 This repository is for showing how Git and GitHub work
+Add changes in remote
 
 ## Purpose
 
