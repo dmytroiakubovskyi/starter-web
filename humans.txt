@@ -8,7 +8,6 @@
 # THANKS
 
     name2
-    name3
 
 # TECHNOLOGY COLOPHON
 
